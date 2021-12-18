@@ -7,6 +7,8 @@ I'm working on a podcast called Talking Tech while Poking Smot where I discuss t
 Feel free to reach out if you would like to be a guest and have a discussion about software engineering and/or tech.
 
 Be a Guest: guest@ttpspodcast.com
+
 Ask a Question: query@ttpspodcast.com
+
 Collab or Sponsor: business@ttpspodcast.com
 
